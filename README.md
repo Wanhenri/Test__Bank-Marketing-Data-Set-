@@ -48,7 +48,7 @@ Citation Request:
     For more information, read [Moro et al., 2011].
 
    ## Input variables:
-   ***
+
    ### Bank client data:
    **1 - age:** (numeric)<br />
    **2 - job:** type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
@@ -61,7 +61,7 @@ Citation Request:
    **8 - loan:** has personal loan? (binary: "yes","no")<br />
 
    ## Related with the last contact of the current campaign:
-   ***
+  
    
    **9 - contact:** contact communication type (categorical: "unknown","telephone","cellular")<br />
   **10 - day:** last contact day of the month (numeric)<br />
@@ -73,7 +73,7 @@ Citation Request:
   **15 - previous:** number of contacts performed before this campaign and for this client(numeric)<br />
   **16 - poutcome:** outcome of the previous marketing campaign (categorical: "unknown","other""failure","success")<br />
   ## Output variable (desired target):    
-  ***
+  
   **17 - y**: has the client subscribed a term deposit? (binary: "yes","no")<br />
 
 
