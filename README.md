@@ -49,7 +49,7 @@ Citation Request:
 
    ## Input variables:
    ***
-   ### bank client data:
+   ### Bank client data:
    **1 - age:** (numeric)<br />
    **2 - job:** type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
                                        "blue-collar","self-employed","retired","technician","services")<br /> 
@@ -60,7 +60,7 @@ Citation Request:
    **7 - housing:** has housing loan? (binary: "yes","no")<br ;>
    **8 - loan:** has personal loan? (binary: "yes","no")<br />
 
-   ## related with the last contact of the current campaign:
+   ## Related with the last contact of the current campaign:
    ***
    
    **9 - contact:** contact communication type (categorical: "unknown","telephone","cellular")<br />
